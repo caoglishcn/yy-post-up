@@ -1,0 +1,4 @@
+set yeeyi_name=name
+set yeeyi_pass=pass
+call node index.js 4155747 saleItmes
+call node index.js 4161720 thinkpad
